@@ -207,6 +207,18 @@
 
 }
 
+@media (min-width: 1200px) {
+    .main-title {
+        font-size: 1.5rem !important;
+    }
+}
+
+.navbar-brand {
+    font-size: 0.5rem !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+}
+
 .nav-bar .navbar {
     z-index: 9;
 }
