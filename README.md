@@ -1,5 +1,5 @@
 # Creation Engineers
 
-![Logo](img/website_icon.ico)
+![Logo](img/creation-engineer-logo.png)
 
 Welcome to the Creation Engineers Git repository!
